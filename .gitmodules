@@ -1,0 +1,3 @@
+[submodule "OpenLane"]
+	path = OpenLane
+	url = https://github.com/The-OpenROAD-Project/OpenLane
